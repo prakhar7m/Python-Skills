@@ -1,4 +1,4 @@
-##Python Skills
+## Python Skills
 
 In this mini-project, I solved various Python exercises aimed at building and reinforcing fundamental Python skills. The tasks were performed within the SageMaker environment.
 
